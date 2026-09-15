@@ -2,8 +2,6 @@
 
 <p align="center">
   <img src="./assets/gt.gif" alt="header" style="border-radius: 15px; max-width: 100%;">
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=Sakura%20Repository&fontSize=60&fontColor=9c4968&animation=twinkling" alt="pulsating text" />
 </p>
 
 # 🌸 <span style="color: #9c4968;">丂卂Ҡ凵尺卂 尺乇尸口</span>
@@ -40,17 +38,13 @@
       <td align="center" width="50%">
         <h3>🌸 Yummy-DL</h3>
         <a href="./dl/Yummy-DL"><img src="./dl/Yummy-DL/assets/screenshot.png" alt="Yummy-DL" style="border-radius: 10px;"></a>
-        <br><br>
         <b>Умный загрузчик аниме.</b> Обходит защиту Cloudflare, вытягивает потоки (.m3u8), скачивает сезоны в папки, имеет консольный UI с выбором плееров и озвучек!
-        <br><br>
         <a href="./dl/Yummy-DL"><b>[ 🚀 Перейти к проекту ]</b></a>
       </td>
       <td align="center" width="50%">
         <h3>🔞 HentaiHaven Parser</h3>
         <a href="./dl/hentaihaven_parser"><img src="./dl/hentaihaven_parser/assets/screenshot.png" alt="HentaiHaven" style="border-radius: 10px;"></a>
-        <br><br>
         <b>Автоматизированный парсер.</b> Скрипт для извлечения ссылок, метаданных и обхода защит на специфичных платформах.
-        <br><br>
         <a href="./dl/hentaihaven_parser"><b>[ 🚀 Перейти к проекту ]</b></a>
       </td>
     </tr>
