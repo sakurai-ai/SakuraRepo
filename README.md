@@ -36,16 +36,10 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <h3>🌸 Yummy-DL</h3>
-        <a href="https://github.com/sakurai-ai/Yummy-DL"><img src="https://raw.githubusercontent.com/sakurai-ai/Yummy-DL/main/assets/yummy_header.gif" alt="Yummy-DL" style="border-radius: 10px;"></a>
-        <b>Умный загрузчик аниме.</b> Обходит защиту Cloudflare, вытягивает потоки (.m3u8), скачивает сезоны в папки, имеет консольный UI с выбором плееров и озвучек!
-        <a href="https://github.com/sakurai-ai/Yummy-DL"><b>[ 🚀 Перейти к проекту ]</b></a>
+        <a href="https://github.com/sakurai-ai/Yummy-DL"><img src="./assets/projects/yummy_card.gif" alt="Yummy-DL" style="border-radius: 10px; width: 100%;"></a>
       </td>
       <td align="center" width="50%">
-        <h3>🔞 HentaiHaven Parser</h3>
-        <a href="https://github.com/sakurai-ai/HHParser"><img src="https://raw.githubusercontent.com/sakurai-ai/HHParser/main/assets/hhparser_header.gif" alt="HentaiHaven" style="border-radius: 10px;"></a>
-        <b>Автоматизированный парсер.</b> Скрипт для извлечения ссылок, метаданных и обхода защит на специфичных платформах.
-        <a href="https://github.com/sakurai-ai/HHParser"><b>[ 🚀 Перейти к проекту ]</b></a>
+        <a href="https://github.com/sakurai-ai/HHParser"><img src="./assets/projects/hhparser_card.gif" alt="HentaiHaven Parser" style="border-radius: 10px; width: 100%;"></a>
       </td>
     </tr>
   </table>
