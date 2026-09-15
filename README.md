@@ -2,14 +2,16 @@
 
 <p align="center">
   <img src="./assets/gt.gif" alt="header" style="border-radius: 15px; max-width: 100%;">
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=Sakura%20Repository&fontSize=60&fontColor=9c4968&animation=twinkling" alt="pulsating text" />
 </p>
 
-# 🌸 <span style="color: #9c4968;">丂卂Ҡ凵尺卂 尺乇尸口</span> ( <span style="color: #9c4968;">凵乚丅工从卂丅乇 从口𠘨口尺乇尸口</span> )
+# 🌸 <span style="color: #9c4968;">丂卂Ҡ凵尺卂 尺乇尸口</span>
 
 Добро пожаловать в **<span style="color: #9c4968;">丂卂Ҡ凵尺卂 尺乇尸口</span>** — ультимативный хаб всех моих разработок! ✨  
 Здесь собраны самые мощные и элегантные инструменты: от парсеров и загрузчиков аниме до Reverse Engineering проектов и полезных скриптов.
 
-[![GitHub followers](https://img.shields.io/github/followers/sakuraidev?label=Follow&style=social)](https://github.com/sakuraidev)
+[![GitHub followers](https://img.shields.io/github/followers/sakurai-ai?label=Follow&style=social)](https://github.com/sakurai-ai)
 [![Python](https://img.shields.io/badge/Made_with-Python-blue?logo=python&logoColor=white&style=for-the-badge&color=fcd1d7)]()
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&color=c3829e)]()
 [![Status](https://img.shields.io/badge/Status-Active_Development-brightgreen?style=for-the-badge&color=ffb3c6)]()
@@ -36,7 +38,7 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <h3>🌸 <span style="color: #9c4968;">丫凵从从丫 - 刀乚</span></h3>
+        <h3>🌸 Yummy-DL</h3>
         <a href="./dl/Yummy-DL"><img src="./dl/Yummy-DL/assets/screenshot.png" alt="Yummy-DL" style="border-radius: 10px;"></a>
         <br><br>
         <b>Умный загрузчик аниме.</b> Обходит защиту Cloudflare, вытягивает потоки (.m3u8), скачивает сезоны в папки, имеет консольный UI с выбором плееров и озвучек!
@@ -44,7 +46,7 @@
         <a href="./dl/Yummy-DL"><b>[ 🚀 Перейти к проекту ]</b></a>
       </td>
       <td align="center" width="50%">
-        <h3>🔞 <span style="color: #9c4968;">卄乇𠘨丅卂工 卄卂リ乇𠘨 尸卂尺丂乇尺</span></h3>
+        <h3>🔞 HentaiHaven Parser</h3>
         <a href="./dl/hentaihaven_parser"><img src="./dl/hentaihaven_parser/assets/screenshot.png" alt="HentaiHaven" style="border-radius: 10px;"></a>
         <br><br>
         <b>Автоматизированный парсер.</b> Скрипт для извлечения ссылок, метаданных и обхода защит на специфичных платформах.
@@ -62,7 +64,7 @@
 Клонируйте этот мега-репозиторий себе на ПК одной командой:
 
 ```bash
-git clone https://github.com/sakura-ai/SakuraRepo.git
+git clone https://github.com/sakurai-ai/SakuraRepo.git
 cd SakuraRepo
 ```
 
@@ -74,11 +76,11 @@ python3 main.py
 
 ## 💖 Поддержка и Контакты
 
-Если вам нравятся мои проекты и инструменты, вы можете поставить ⭐ звездочку этому репозиторию — это лучшая мотивация для меня делать крутой софт!
+Если вам нравятся мои проекты, вы можете поддержать меня, подписавшись на мой GitHub и поставив ⭐ звездочку этому репозиторию!
 
 <p align="center">
-  <a href="https://t.me/your_telegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://discord.gg/your_discord"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://t.me/YOTSUBA_N"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://github.com/sakurai-ai"><img src="https://img.shields.io/badge/GitHub-Follow_sakurai--ai-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow GitHub"></a>
 </p>
 
 <div align="center">
