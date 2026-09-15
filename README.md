@@ -43,9 +43,9 @@
       </td>
       <td align="center" width="50%">
         <h3>🔞 HentaiHaven Parser</h3>
-        <a href="./dl/hentaihaven_parser"><img src="./dl/hentaihaven_parser/assets/screenshot.png" alt="HentaiHaven" style="border-radius: 10px;"></a>
+        <a href="https://github.com/sakurai-ai/HHParser"><img src="https://github.com/sakurai-ai/HHParser/assets/screenshot.png" alt="HentaiHaven" style="border-radius: 10px;"></a>
         <b>Автоматизированный парсер.</b> Скрипт для извлечения ссылок, метаданных и обхода защит на специфичных платформах.
-        <a href="./dl/hentaihaven_parser"><b>[ 🚀 Перейти к проекту ]</b></a>
+        <a href="https://github.com/sakurai-ai/HHParser"><b>[ 🚀 Перейти к проекту ]</b></a>
       </td>
     </tr>
   </table>
