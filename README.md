@@ -37,9 +37,9 @@
     <tr>
       <td align="center" width="50%">
         <h3>🌸 Yummy-DL</h3>
-        <a href="./dl/Yummy-DL"><img src="./dl/Yummy-DL/assets/screenshot.png" alt="Yummy-DL" style="border-radius: 10px;"></a>
+        <a href="https://github.com/sakurai-ai/Yummy-DL"><img src="https://github.com/sakurai-ai/Yummy-DL/assets/screenshot.png" alt="Yummy-DL" style="border-radius: 10px;"></a>
         <b>Умный загрузчик аниме.</b> Обходит защиту Cloudflare, вытягивает потоки (.m3u8), скачивает сезоны в папки, имеет консольный UI с выбором плееров и озвучек!
-        <a href="./dl/Yummy-DL"><b>[ 🚀 Перейти к проекту ]</b></a>
+        <a href="https://github.com/sakurai-ai/Yummy-DL"><b>[ 🚀 Перейти к проекту ]</b></a>
       </td>
       <td align="center" width="50%">
         <h3>🔞 HentaiHaven Parser</h3>

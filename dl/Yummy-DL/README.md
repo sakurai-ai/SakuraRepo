@@ -1,95 +1,56 @@
+<div align="center">
+
+<p align="center">
+  <img src="./assets/yummy_header.gif" alt="Yummy-DL Header" style="border-radius: 15px; max-width: 100%;">
+</p>
+
 # 🌸 Yummy-DL (by sakuraidev)
 
 **Yummy-DL** — это мощный и удобный консольный загрузчик аниме с сайта YummyAnime. 
 Он умеет обходить современные защиты плееров (Kodik, CVH, Aksor, Alloha и др.), автоматически вытягивать прямые ссылки на видеопоток (`.m3u8` / `.mp4`) и скачивать целые сезоны в максимальном качестве, раскладывая их по аккуратным папочкам!
 
+[![Python](https://img.shields.io/badge/Made_with-Python-blue?logo=python&logoColor=white&style=for-the-badge&color=fcd1d7)]()
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&color=ffb3c6)]()
+
+---
+</div>
+
 ## ✨ Функционал
 * 🔍 **Умный поиск:** Ищите аниме прямо в консоли.
-* 🛡️ **Обход защиты:** Встроенный невидимый браузер (Playwright) для обхода Cloudflare и шифрования таких плееров, как Kodik и CVH. (регулируется в настройках)
+* 🛡️ **Обход защиты:** Встроенный невидимый браузер (Playwright) для обхода Cloudflare и шифрования.
 * 📂 **Организация:** Автоматически создает папку с названием аниме и складывает туда все скачанные серии.
 * 🎧 **Удобный выбор:** Группировка переводов по плеерам. Сначала выбираете плеер, затем озвучку!
-* ⚙️ **Настройки прокси:** Поддержка прокси-серверов для обхода региональных блокировок.
-* 📋 **Поддержка Shikimori:** Загрузка списков аниме из JSON-файлов Шикимори.
 
 ---
 
-## 🚀 Установка
+## 📸 Скриншот работы
 
-Для работы программы вам понадобится **Python 3.10+** (или выше), а также утилита `ffmpeg` для склеивания видеофайлов.
+<p align="center">
+  <img src="./assets/screenshot.png" alt="Yummy-DL Console Interface" style="border-radius: 10px; max-width: 100%;">
+</p>
 
-### 🐧 Установка на Linux (Ubuntu / Debian / Mint)
+---
 
-1. **Обновите пакеты и установите ffmpeg:**
+## 🚀 Быстрый старт (Quick Start)
+
+1. Клонируйте репозиторий:
    ```bash
-   sudo apt update
-   sudo apt install -y python3 python3-pip ffmpeg
+   git clone https://github.com/sakurai-ai/Yummy-DL.git
+   cd Yummy-DL
    ```
-2. **Скачайте этот репозиторий** (или скопируйте папку с файлами) и перейдите в неё:
+2. Установите зависимости и браузер Playwright:
    ```bash
-   cd путь/к/папке/yummyani.me
-   ```
-3. **Установите нужные Python-библиотеки:**
-   ```bash
-   pip3 install -r requirements.txt
-   ```
-   *(Если pip ругается на системное окружение, используйте `pip3 install -r requirements.txt --break-system-packages`)*
-4. **Установите браузер для обхода защиты плееров:**
-   ```bash
-   playwright install chromium
-   ```
-
-### 🪟 Установка на Windows
-
-1. **Установите Python:** Скачайте установщик с [python.org](https://www.python.org/downloads/). **Важно:** при установке обязательно поставьте галочку **"Add Python to PATH"** в самом низу окна!
-2. **Установите ffmpeg:**
-   * Скачайте `ffmpeg` (например, через [gyan.dev](https://www.gyan.dev/ffmpeg/builds/)) и добавьте папку `bin` в системные переменные среды (PATH).
-   * *Или воспользуйтесь пакетным менеджером:* `winget install ffmpeg`
-3. **Скачайте папку со скриптом**, откройте её и нажмите правой кнопкой мыши по пустому месту -> **"Открыть в Terminal"** (или введите `cmd` в адресной строке проводника).
-4. **Установите библиотеки:**
-   ```cmd
    pip install -r requirements.txt
-   ```
-5. **Установите браузер Playwright:**
-   ```cmd
    playwright install chromium
    ```
+3. Запустите загрузчик:
+   ```bash
+   python3 main.py
+   ```
 
----
+## 💖 Поддержка
 
-## 🎮 Как запустить и пользоваться
-
-Запуск программы осуществляется одной простой командой из папки со скриптом:
-
-**Linux:**
-```bash
-python3 main.py
-```
-
-**Windows:**
-```cmd
-python main.py
-```
-
-### 🕹️ Базовое управление
-Вся навигация в программе происходит с помощью **стрелочек на клавиатуре** (Вверх ⬆️ / Вниз ⬇️) и клавиши **Enter ↵** для подтверждения выбора.
-
-1. **Поиск аниме:**
-   * Выберите `Поиск аниме по названию` в главном меню.
-   * Введите название (например: `Домекано`) и нажмите Enter.
-   * Выберите нужный тайтл из списка результатов.
-2. **Выбор озвучки:**
-   * Сначала выберите плеер (Kodik, Alloha, CVH и т.д.).
-   * Затем выберите студию озвучки (AniLibria, StudioBand, Субтитры и т.д.).
-3. **Скачивание:**
-   * Выберите качество (сейчас автоматически вытягивается максимальное доступное из потока).
-   * Выберите серии: можно скачать `Все серии` сразу, либо ввести диапазон (например, `1-5` или `1,3,5`).
-4. **Результат:**
-   * Видео начнут скачиваться в папку `Downloads/Название_Аниме/` внутри папки со скриптом!
-
-### ⚙️ Настройки
-В главном меню есть раздел **Настройки**, где вы можете:
-* **Включить показ браузера:** Полезно, если вас часто блокирует Cloudflare и вам нужно руками пройти капчу один раз, чтобы скрипт запомнил сессию.
-* **Добавить Прокси:** Если провайдер блокирует YummyAnime или балансировщики плееров (формат: `http://user:pass@ip:port`).
-
----
-*Сделано с ❤️ by sakuraidev (v1.0.0)*
+<p align="center">
+  <a href="https://t.me/YOTSUBA_N"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://github.com/sakurai-ai"><img src="https://img.shields.io/badge/GitHub-Follow_sakurai--ai-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow GitHub"></a>
+</p>
