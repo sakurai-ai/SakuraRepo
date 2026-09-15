@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+questionary
+rich
+tqdm
+yt-dlp
+playwright

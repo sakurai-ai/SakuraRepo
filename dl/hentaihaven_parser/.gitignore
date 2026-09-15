@@ -1,0 +1,26 @@
+# Environments
+venv/
+env/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Downloads & Rclone
+gdrive/
+downloads/
+temp/
+*.mp4
+*.ts
+
+# IDEs
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
