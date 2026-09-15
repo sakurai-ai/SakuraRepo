@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🌸 SakuraRepo (Ultimate Monorepo)
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=fcd1d7&height=200&section=header&text=Sakura%20Repository&fontSize=80&fontColor=c3829e&animation=twinkling" alt="header" />
+  <img src="./assets/gt.gif" alt="header" style="border-radius: 15px; max-width: 100%;">
 </p>
 
-Добро пожаловать в **SakuraRepo** — ультимативный хаб всех моих разработок! ✨  
+# 🌸 <span style="color: #9c4968;">丂卂Ҡ凵尺卂 尺乇尸口</span> ( <span style="color: #9c4968;">凵乚丅工从卂丅乇 从口𠘨口尺乇尸口</span> )
+
+Добро пожаловать в **<span style="color: #9c4968;">丂卂Ҡ凵尺卂 尺乇尸口</span>** — ультимативный хаб всех моих разработок! ✨  
 Здесь собраны самые мощные и элегантные инструменты: от парсеров и загрузчиков аниме до Reverse Engineering проектов и полезных скриптов.
 
 [![GitHub followers](https://img.shields.io/github/followers/sakuraidev?label=Follow&style=social)](https://github.com/sakuraidev)
@@ -36,7 +36,7 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <h3>🌸 Yummy-DL</h3>
+        <h3>🌸 <span style="color: #9c4968;">丫凵从从丫 - 刀乚</span></h3>
         <a href="./dl/Yummy-DL"><img src="./dl/Yummy-DL/assets/screenshot.png" alt="Yummy-DL" style="border-radius: 10px;"></a>
         <br><br>
         <b>Умный загрузчик аниме.</b> Обходит защиту Cloudflare, вытягивает потоки (.m3u8), скачивает сезоны в папки, имеет консольный UI с выбором плееров и озвучек!
@@ -44,7 +44,7 @@
         <a href="./dl/Yummy-DL"><b>[ 🚀 Перейти к проекту ]</b></a>
       </td>
       <td align="center" width="50%">
-        <h3>🔞 HentaiHaven Parser</h3>
+        <h3>🔞 <span style="color: #9c4968;">卄乇𠘨丅卂工 卄卂リ乇𠘨 尸卂尺丂乇尺</span></h3>
         <a href="./dl/hentaihaven_parser"><img src="./dl/hentaihaven_parser/assets/screenshot.png" alt="HentaiHaven" style="border-radius: 10px;"></a>
         <br><br>
         <b>Автоматизированный парсер.</b> Скрипт для извлечения ссылок, метаданных и обхода защит на специфичных платформах.
@@ -62,7 +62,7 @@
 Клонируйте этот мега-репозиторий себе на ПК одной командой:
 
 ```bash
-git clone https://github.com/sakuraidev/SakuraRepo.git
+git clone https://github.com/sakura-ai/SakuraRepo.git
 cd SakuraRepo
 ```
 
@@ -82,5 +82,5 @@ python3 main.py
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=fcd1d7&height=100&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9c4968&height=100&section=footer" alt="footer" />
 </div>
