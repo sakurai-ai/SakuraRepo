@@ -49,7 +49,7 @@
 
 ## 💖 Поддержка и Контакты
 
-Если вам нравятся мои проекты, вы можете поддержать меня, подписавшись на мой GitHub и поставив ⭐ звездочку этому репозиторию!
+Если вам нравятся мои проекты, вы можете поддержать меня, подписавшись на мой GitHub и поставив ⭐ звездочку этому репозиторию и репозиториям проекта:3! 
 
 <p align="center">
   <a href="https://t.me/YOTSUBA_N"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
